@@ -19,6 +19,7 @@ body {
 }
 
 #footer {
+	margin-top: 20px;
     height: 51px;
     width: 960px;
     background-image: url(../images/grasje_960.png);
