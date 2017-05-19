@@ -1,10 +1,8 @@
 Mãlini Klapper
 ==============
 
-[![GPLv3](http://img.shields.io/badge/license-GPLv3-blue.png)]
-(https://github.com/maaltje/maliniklapper/blob/master/LICENSE)
-[![Travis Status](http://img.shields.io/travis/maaltje/maliniklapper/master.png)]
-(https://travis-ci.org/maaltje/maliniklapper)
+[![GPLv3](http://img.shields.io/badge/license-GPLv3-blue.png)](https://github.com/maaltje/maliniklapper/blob/master/LICENSE)
+[![Travis Status](http://img.shields.io/travis/maaltje/maliniklapper/master.png)](https://travis-ci.org/maaltje/maliniklapper)
 
 This is the website for Mãlini Klapper.
 
