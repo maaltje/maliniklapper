@@ -1,8 +1,2 @@
-# Catus
-.build
-
-# Python
-*.pyc
-
 # Mac OS
 .DS_Store
